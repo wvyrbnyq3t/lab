@@ -1,0 +1,21 @@
+:root {
+  --bgc-overlay: rgba(0, 0, 0, 0.5);
+  --bgc-page: #ffffff;
+
+  --c-gray: #cccccc;
+  --c-primary: #f4a466;
+  --c-txt: #4e4e4e;
+
+  --c-blue: #0017c1;
+  --c-blue_light: #0065be;
+  --c-cyan: #008da6;
+  --c-green: #239d63;
+  --c-orange: #fb5b00;
+  --c-purple: #6e23d0;
+  --c-red: #eb0001;
+
+  --w-pc: 800px;
+
+  /* padding */
+  --gutter: 8px;
+}
